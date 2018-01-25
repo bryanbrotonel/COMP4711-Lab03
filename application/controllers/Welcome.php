@@ -29,7 +29,7 @@ class Welcome extends Application
     // Prime the table class
 		$this->load->library('table');
 		$parms = array(
-			'table_open' => '<table cols="3" class="gallery">',
+			'table_open' => '<table class="gallery">',
 			'cell_start' => '<td class="oneimage">',
 			'cell_alt_start' => '<td class="oneimage">'
 		);
