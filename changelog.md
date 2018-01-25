@@ -1,33 +1,55 @@
-#Change Log
+# Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
-Team conventions: Allman notation, markdown for changelog  
-Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+Team membership: Piyotr (Captain) & Bryan (Mate)<br>
+Team conventions: Allman notation, markdown for changelog<br>
+Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## *Version x.x*
+## _Version 0.02_ ##
+### Trvial to Basic Conversion
 
-Release Date: Jul 26, 2027
+Release Date: Jan 24, 2018
+
+## Updated Components
+- views
+
+    - welcome
+    - about
+    - gallery
+
+- core
+    - MY_Controller
+
+- controllers
+    - About
+    - Gallery
+    - Welcome
+
+## Removed Components
+- public
+    - index.html
+    - about.html
+    - gallery.html
+
+## _Version 0.01_
+### Static to Trivial Conversion
+
+Release Date: Jan 24, 2018
 
 ## New Components
 
--   controllers
+- views
 
-    -   serbian (AB)
-    
+  - welcome
+  - about
+  - gallery
+
+
+- controllers
+  - about
+  - gallery
+
 ## Updated Components
 
--   controllers
+- controllers
 
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
-
-
+  - welcome
