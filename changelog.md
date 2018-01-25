@@ -4,6 +4,40 @@ Team membership: Piyotr (Captain) & Bryan (Mate)<br>
 Team conventions: Allman notation, markdown for changelog<br>
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+## _Version 0.03_
+### Basic to Good Website Conversion
+
+Release Date: Jan 25, 2018
+
+## New Components
+
+- models
+
+  - images
+
+
+- views
+
+  - \_cell
+
+## Updated Components
+
+- controllers
+
+  - about
+  - galery
+  - welcome
+
+## Removed Components
+
+- controllers
+
+  - index.html
+
+
+- database.php
+
+
 ## _Version 0.02_ ##
 ### Trvial to Basic Conversion
 
@@ -16,16 +50,22 @@ Release Date: Jan 24, 2018
     - about
     - gallery
 
+
 - core
+
     - MY_Controller
 
+
 - controllers
+
     - About
     - Gallery
     - Welcome
 
 ## Removed Components
+
 - public
+
     - index.html
     - about.html
     - gallery.html
@@ -45,6 +85,7 @@ Release Date: Jan 24, 2018
 
 
 - controllers
+
   - about
   - gallery
 
